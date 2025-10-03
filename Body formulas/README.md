@@ -3,6 +3,9 @@ It's a dry-touch body oil designed for hydration and a lingering scent through t
 Unfortunatelly according to my research (whatever little I could find), has few ingredients that are toxic to cats
 The Body oil per se, is wonderfull and I love the feel.
 
+In the excel file is the whole formula, the inci names and the way I created. 
+Somehow, nailed it in the first attempt!!
+
 ## Where I need help
 If anyone can help me reformulate it with less pet toxicity without loosing the dry-feel.
 
