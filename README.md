@@ -11,7 +11,6 @@ What’s in this Repository?
 - **experiments/**: Notes and results from testing and tweaking formulas.
 - **ingredients/**: Information on ingredients, safety, and suppliers.
 - **notes/**: My personal lab journal and thoughts.
-- **resources/**: Regulations, articles, and useful links.
 - **ai-assist/**: Ideas and analysis generated with Claude AI or other AI tools.
 
 ## How to Use This Repo
